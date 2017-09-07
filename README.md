@@ -1,4 +1,5 @@
 # Note8-AOSP To do & Info
+# Looking for devs with Galaxy S8/+ or Note8 to help! If You want to help just message @protodevnan0 on Telegram! :)
 
 android_device_samsung_greatlte add power_profile.xml from Note8 framework -- NOT FINISHED
 

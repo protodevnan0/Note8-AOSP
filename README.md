@@ -15,7 +15,7 @@ fix folder names etc -- NOT FINISHED (NOT IMPORTANT TAHT MUCH FOR NOW)
 
 fix system.prop bootdevice mounting -- NOT FINISHED
 
-fix system_prop.mk build.prop data -- NOT FINISHED
+fix system_prop.mk build.prop data -- PARTIALLY FINISHED? (WAITING FOR OFFICIAL FIRMWARE)
 
 fix android_vendor_samsung_greatlte-common and replace with Note8 files -- NOT FINISHED
 

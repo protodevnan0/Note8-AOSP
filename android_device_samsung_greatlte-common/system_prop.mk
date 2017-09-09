@@ -18,10 +18,10 @@
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.sys.fw.dex2oat_thread_count=4 \
 	dalvik.vm.heapstartsize=8m \
-	dalvik.vm.heapgrowthlimit=256m \
+	dalvik.vm.heapgrowthlimit=128m \
 	dalvik.vm.heapsize=512m \
 	dalvik.vm.heaptargetutilization=0.75 \
-	dalvik.vm.heapminfree=2m \
+	dalvik.vm.heapminfree=512k \
 	dalvik.vm.heapmaxfree=8m
 
 # Hwui

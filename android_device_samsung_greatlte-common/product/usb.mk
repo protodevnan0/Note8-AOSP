@@ -1,6 +1,6 @@
 # Init Resources
 PRODUCT_PACKAGES += \
-	init.samsungexynos8890.usb.rc
+	init.samsungexynos8895.usb.rc
 
 # Packages
 PRODUCT_PACKAGES += \

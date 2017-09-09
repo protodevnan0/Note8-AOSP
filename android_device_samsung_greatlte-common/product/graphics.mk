@@ -13,11 +13,11 @@ PRODUCT_COPY_FILES += \
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.bq.gpu_to_cpu_unsupported=1 \
-	ro.opengles.version=196609 \
+	ro.opengles.version=196610 \
 	debug.hwc.force_gpu=1 \
 	ro.bq.gpu_to_cpu_unsupported=1 \
-	ro.opengles.version=196609 \
-	ro.sf.lcd_density=560
+	ro.opengles.version=196610 \
+	ro.sf.lcd_density=480
 
 # Properties - HWC - not used on cm/aosp
 PRODUCT_PROPERTY_OVERRIDES += \

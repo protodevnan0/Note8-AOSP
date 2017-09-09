@@ -1,4 +1,4 @@
-DEVICE_PATH := device/samsung/hero-common
+DEVICE_PATH := device/samsung/greatlte-common
 
 # Configs
 PRODUCT_COPY_FILES += \
@@ -10,7 +10,7 @@ PRODUCT_PACKAGES += \
 	audio.a2dp.default \
 	audio.usb.default \
 	audio.r_submix.default \
-	audio.primary.universal8890
+	audio.primary.universal8895
 
 # Permissions
 PRODUCT_COPY_FILES += \

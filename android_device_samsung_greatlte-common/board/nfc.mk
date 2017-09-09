@@ -1,2 +1,2 @@
 # NFC
-BOARD_NFC_HAL_SUFFIX := universal8890
+BOARD_NFC_HAL_SUFFIX := universal8895

@@ -9,7 +9,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/devices/15400000.usb/15400000.dwc3/gadg
 
 # TWRP specific
 ifeq ($(RECOVERY_VARIANT),twrp)
-TARGET_RECOVERY_FSTAB := device/samsung/hero-common/ramdisk/recovery.fstab
+TARGET_RECOVERY_FSTAB := device/samsung/greatlte-common/ramdisk/recovery.fstab
 TW_BRIGHTNESS_PATH := "/sys/devices/13900000.dsim/backlight/panel/brightness"
 TW_DEFAULT_BRIGHTNESS := 180
 TW_EXCLUDE_SUPERSU := true
@@ -21,5 +21,5 @@ TW_MAX_BRIGHTNESS := 255
 TW_NO_REBOOT_BOOTLOADER := true
 TW_THEME := portrait_hdpi
 else
-TARGET_RECOVERY_FSTAB := device/samsung/hero-common/ramdisk/fstab.samsungexynos8890
+TARGET_RECOVERY_FSTAB := device/samsung/greatlte-common/ramdisk/fstab.samsungexynos8895
 endif

@@ -5,7 +5,7 @@ android_device_samsung_greatlte add power_profile.xml from Note8 framework -- FI
 
 add Note8 kernel once it's available -- NOT FINISHED
 
-fix RenderScript in BoardConfingCommon.mk set to proper cortex and exynos-m2 -- NOT FINISHED
+fix RenderScript in BoardConfingCommon.mk set to proper cortex and exynos-m2 -- PARTIALLY FINISHED
 
 fix kernel image properties in BoardConfingCommon.mk -- NOT FINISHED
 

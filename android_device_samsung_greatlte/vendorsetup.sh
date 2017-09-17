@@ -1,3 +1,0 @@
-add_lunch_combo lineage_greatlte-eng
-add_lunch_combo lineage_greatlte-userdebug
-add_lunch_combo lineage_greatlte-user

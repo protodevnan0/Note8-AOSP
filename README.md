@@ -3,24 +3,20 @@
 
 android_device_samsung_greatlte add power_profile.xml from Note8 framework -- FINISHED
 
-add Note8 kernel once it's available -- NOT FINISHED
+add Note8 kernel once it's available -- NOT FINISHED -- SOON! GOT SOURCE.
 
 fix RenderScript in BoardConfingCommon.mk set to proper cortex and exynos-m2 -- PARTIALLY FINISHED
 
-fix kernel image properties in BoardConfingCommon.mk -- NOT FINISHED
+fix kernel image properties in BoardConfingCommon.mk -- FINISHED
 
-edit and fix/correct common-proprietary-files.txt -- NOT FINISHED
+Add Note8 blobs -- FINISHED
 
-fix folder names etc -- NOT FINISHED (NOT IMPORTANT TAHT MUCH FOR NOW)
+fix folder names etc -- FINISHED
 
-fix system.prop bootdevice mounting -- NOT FINISHED
+fix system.prop bootdevice mounting -- FINISHED
 
 fix system_prop.mk build.prop data -- PARTIALLY FINISHED? (WAITING FOR OFFICIAL FIRMWARE)
 
-fix android_vendor_samsung_greatlte-common and replace with Note8 files -- NOT FINISHED
-
 FIX/CORRECT TONS OF OTHER FILES TO MATCH NOTE8 HARDWARE!!!!
-
-WAITING FOR NOTE8 FIRMWARE AND KERNEL SOURCE TO BE RELEASED!
 
 HUGE THANKS TO FEVAX AND JESEC AND OTHER S7 AOSP DEVS FOR MAKING IT POSSIBLE! YOU CAN THANK THEM BY DONATING!

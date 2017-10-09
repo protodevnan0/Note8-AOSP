@@ -16,7 +16,7 @@
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/greatlte/device_greatlte.mk)
-$(call inherit-product, device/samsung/great-common/great-common.mk)
+$(call inherit-product, device/samsung/greatlte-common/greatlte-common.mk)
 
 # Inherit from the 64 bit configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)

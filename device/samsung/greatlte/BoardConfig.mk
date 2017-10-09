@@ -16,7 +16,7 @@
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/universal8895
-TARGET_KERNEL_CONFIG := exynos8895-greatlte_defconfig
+TARGET_KERNEL_CONFIG := exynos8895-greatlte_eur_open_defconfig
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := greatltebmc,greatlteskt,greatltektt,greatltelgt,greatltexx,greatlte
